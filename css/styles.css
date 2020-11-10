@@ -147,7 +147,7 @@
 	.divsec1{
 		position: absolute;
 		padding: 10px 10px 10px 10px;
-	  	margin: 25px 20px 20px 247px;
+	  	margin: 25px 20px 20px 217px;
 		bottom: 200px
 		left: 250px;
 		background-color: red;
@@ -156,7 +156,7 @@
 	.divsec2{
 		position: absolute;
 		padding: 10px 10px 10px 10px;
-	  	margin: 240px 20px 20px 273px;
+	  	margin: 255px 20px 20px 263px;
 		bottom: 200px
 		left: 200px;
 		background-color: blue;
@@ -165,7 +165,7 @@
 	.divsec3{
 		position: absolute;
 		padding: 10px 10px 10px 10px;
-	  	margin: 458px 20px 20px 267px;
+	  	margin: 578px 20px 20px 257px;
 		bottom: 200px
 		left: 200px;
 		background-color: green;
