@@ -1,4 +1,3 @@
-
 @media only screen and (min-width: 992px) {
    .div1{
 	  padding: 40px 55px 20px 20px;
@@ -7,6 +6,7 @@
 	  float: left;
   	  width: 23.33%;
   	  position:relative;
+  	  background-color: yellow;
 	}
 
   .div2{
@@ -16,6 +16,7 @@
 	  float: left;
   	  width: 23.33%;
   	  position:relative;
+  	  background-color: yellow;
   	}
   .div3{
 	  padding: 40px 55px 20px 20px;
@@ -24,6 +25,7 @@
 	  float: left;
   	  width: 23.33%;
   	  position:relative;
+  	  background-color: yellow;
 	}
 	.divsec1{
 		position: absolute;
@@ -62,6 +64,7 @@
 	  float: left;
   	  width: 23.33%;
   	  position:relative;
+  	  background-color: yellow;
 	}
 
   .div2{
@@ -71,6 +74,7 @@
 	  float: left;
   	  width: 23.33%;
   	  position:relative;
+  	  background-color: yellow;
   	}
   .div3{
 	  padding: 45px 20px 20px 20px;
@@ -79,6 +83,7 @@
 	  float: left;
   	  width: 60%;
 	  position:relative;
+	  background-color: yellow;
   	  
 	}
 	.divsec1{
