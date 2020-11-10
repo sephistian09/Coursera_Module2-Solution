@@ -30,7 +30,7 @@
 	.divsec1{
 		position: absolute;
 		padding: 10px 10px 10px 10px;
-	  	margin: 25px 20px 20px 342px;
+	  	margin: 25px 20px 20px 340px;
 		bottom: 200px
 		left: 200px;
 		background-color: red;
@@ -39,7 +39,7 @@
 	.divsec2{
 		position: absolute;
 		padding: 10px 10px 10px 10px;
-	  	margin: 25px 20px 20px 815px;
+	  	margin: 25px 20px 20px 810px;
 		bottom: 200px
 		left: 200px;
 		background-color: blue;
@@ -48,7 +48,7 @@
 	.divsec3{
 		position: absolute;
 		padding: 10px 10px 10px 10px;
-	  	margin: 25px 20px 20px 1259px;
+	  	margin: 25px 20px 20px 1249px;
 		bottom: 200px
 		left: 200px;
 		background-color: green;
@@ -78,7 +78,7 @@
   	}
   .div3{
 	  padding: 45px 20px 20px 20px;
-	  margin: 20px 20px 20px 125px;
+	  margin: 20px 20px 20px 100px;
 	  border: 10px solid black;box-sizing; border-box;
 	  float: left;
   	  width: 60%;
