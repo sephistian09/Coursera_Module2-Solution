@@ -1,6 +1,6 @@
 @media only screen and (min-width: 992px) {
    .div1{
-	  padding: 40px 55px 20px 20px;
+	  padding: 40px 50px 20px 20px;
 	  margin: 20px 20px 20px 15px;
 	  border: 10px solid black;box-sizing; border-box;
 	  float: left;
@@ -10,7 +10,7 @@
 	}
 
   .div2{
-	  padding: 40px 55px 20px 20px;
+	  padding: 40px 50px 20px 20px;
 	  margin: 20px 20px 20px 15px;
 	  border: 10px solid black;box-sizing; border-box;
 	  float: left;
@@ -19,7 +19,7 @@
   	  background-color: yellow;
   	}
   .div3{
-	  padding: 40px 55px 20px 20px;
+	  padding: 40px 50px 20px 20px;
 	  margin: 20px 20px 20px 15px;
 	  border: 10px solid black;box-sizing; border-box;
 	  float: left;
