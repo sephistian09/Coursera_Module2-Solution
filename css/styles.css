@@ -1,0 +1,182 @@
+@media only screen and (min-width: 992px) {
+   .div1{
+	  padding: 40px 55px 20px 20px;
+	  margin: 20px 20px 20px 20px;
+	  border: 10px solid black;box-sizing; border-box;
+	  float: left;
+  	  width: 23.33%;
+  	  position:relative;
+  	  background-color: yellow;
+	}
+
+  .div2{
+	  padding: 40px 55px 20px 20px;
+	  margin: 20px 15px 20px 20px;
+	  border: 10px solid black;box-sizing; border-box;
+	  float: left;
+  	  width: 23.33%;
+  	  position:relative;
+  	  background-color: yellow;
+  	}
+  .div3{
+	  padding: 40px 55px 20px 20px;
+	  margin: 20px 20px 20px 20px;
+	  border: 10px solid black;box-sizing; border-box;
+	  float: left;
+  	  width: 23.33%;
+  	  position:relative;
+  	  background-color: yellow;
+	}
+	.divsec1{
+		position: absolute;
+		padding: 10px 10px 10px 10px;
+	  	margin: 25px 20px 20px 335px;
+		bottom: 200px
+		left: 200px;
+		background-color: red;
+		border: 5px solid black;box-sizing; border-box;
+	}
+	.divsec2{
+		position: absolute;
+		padding: 10px 10px 10px 10px;
+	  	margin: 25px 20px 20px 807px;
+		bottom: 200px
+		left: 200px;
+		background-color: blue;
+		border: 5px solid black;box-sizing; border-box;
+	}
+	.divsec3{
+		position: absolute;
+		padding: 10px 10px 10px 10px;
+	  	margin: 25px 20px 20px 1243px;
+		bottom: 200px
+		left: 200px;
+		background-color: green;
+		border: 5px solid black;box-sizing; border-box;
+	}
+ 
+}
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+   .div1{
+	  padding: 45px 20px 20px 20px;
+	  margin: 20px 20px 20px 125px;
+	  border: 10px solid black;box-sizing; border-box;
+	  float: left;
+  	  width: 23.33%;
+  	  position:relative;
+  	  background-color: yellow;
+	}
+
+  .div2{
+	  padding: 45px 20px 20px 20px;
+	  margin: 20px 20px 20px 20px;
+	  border: 10px solid black;box-sizing; border-box;
+	  float: left;
+  	  width: 23.33%;
+  	  position:relative;
+  	  background-color: yellow;
+  	}
+  .div3{
+	  padding: 45px 20px 20px 20px;
+	  margin: 20px 20px 20px 125px;
+	  border: 10px solid black;box-sizing; border-box;
+	  float: left;
+  	  width: 60%;
+	  position:relative;
+	  background-color: yellow;
+  	  
+	}
+	.divsec1{
+		position: absolute;
+		padding: 10px 10px 10px 10px;
+	  	margin: 25px 20px 20px 276px;
+		bottom: 200px
+		left: 200px;
+		background-color: red;
+		border: 5px solid black;box-sizing; border-box;
+	}
+	.divsec2{
+		position: absolute;
+		padding: 10px 10px 10px 10px;
+	  	margin: 25px 20px 20px 583px;
+		bottom: 200px
+		left: 200px;
+		background-color: blue;
+		border: 5px solid black;box-sizing; border-box;
+	}
+	.divsec3{
+		position: absolute;
+		padding: 10px 10px 10px 10px;
+	  	margin: 258px 20px 20px 581px;
+		bottom: 200px
+		left: 200px;
+		background-color: green;
+		border: 5px solid black;box-sizing; border-box;
+	}
+}
+  @media only screen and (max-width: 767px) {
+  	.div1{
+	  padding: 45px 20px 20px 20px;
+	  margin: 20px 20px 20px 20px;
+	  border: 10px solid black;box-sizing; border-box;
+	  float: left;
+  	  width: 72%;
+  	  position:relative;
+  	  background-color: yellow;
+	}
+
+  .div2{
+	  padding: 45px 20px 20px 20px;
+	  margin: 20px 20px 20px 20px;
+	  border: 10px solid black;box-sizing; border-box;
+	  float: left;
+  	  width: 72%;
+  	  position:relative;
+  	  background-color: yellow;
+  	}
+  .div3{
+	  padding: 45px 20px 20px 20px;
+	  margin: 20px 20px 20px 20px;
+	  border: 10px solid black;box-sizing; border-box;
+	  float: left;
+  	  width: 72%;
+	  position:relative;
+	  background-color: yellow;
+  	  
+	}
+	.divsec1{
+		position: absolute;
+		padding: 10px 10px 10px 10px;
+	  	margin: 25px 20px 20px 247px;
+		bottom: 200px
+		left: 250px;
+		background-color: red;
+		border: 5px solid black;box-sizing; border-box;
+	}
+	.divsec2{
+		position: absolute;
+		padding: 10px 10px 10px 10px;
+	  	margin: 240px 20px 20px 273px;
+		bottom: 200px
+		left: 200px;
+		background-color: blue;
+		border: 5px solid black;box-sizing; border-box;
+	}
+	.divsec3{
+		position: absolute;
+		padding: 10px 10px 10px 10px;
+	  	margin: 458px 20px 20px 267px;
+		bottom: 200px
+		left: 200px;
+		background-color: green;
+		border: 5px solid black;box-sizing; border-box;
+	}
+
+}
+
+h1.helvetica{
+	color: blue;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style:italic;
+	text-align: center;
+}
